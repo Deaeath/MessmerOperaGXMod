@@ -1,0 +1,87 @@
+{
+   "description": "Elden Ring: Shadow of the Erdtree",
+   "developer": {
+      "name": "👑 King Colossus 👑"
+   },
+   "icons": {
+      "512": "elden_icon.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAuqgRBkAVnONOdLGwySEQrteZK8LYqQj+SLQ9vcXi0PnYFLEqW9Q4aXamCNNYcw5UiCAlFSQivfIq3jsl5IgI97fvzgc44X6YciilFVpmyAl6/CFQdzvJBVVLjJ7TO9vMst6NQYP4U+uAlznzoWRazpQkXrSo868i5vOnm1SKVLCfxmwxi7M5TpyKVV3Yg8vjjtpVG6e6N6jbTE3i1tEWnvQonHdL0V9+PTmPFJc9m94Su0bObxGQepj54oQewB092Yfy+Kkudq0uPWQckIhXMLMeBHHvBqYB8o4FFlyyW+I1SMagCs+/4mtHcDdNfjm6K4m87XaYy5mvRPptqn316GaJJD6aGaUiPGFFLxwvroea83I6KYz2nMfvciPh6McAWqkBtG/5pHF9PKApzSRCwIkDeuRPTQqpcFaDwJQErsVRZSQXfpXr9jH3wobIQrfDhh5anwyI9inNUtj/POHXi3J4BTvpflbJoNvgv2E21UZIS+89utrDzhjzILlr17U4WSK3dmrfcU8lVdRr0UlPkaIzhuzue/HX+8zlCMGGM0fFBSNkkTm53w6oBEYkjqE8eU5fHve0d3undg21TxfHPf7xB6OOqAyTaXSqaXgUGi1KPReAmzzJHi+Ym8XUVpEOypnzhXgvJl7pTJj+XY/V+iMscTnyhQPGpZopAFWRH+0CAwEAAQ==",
+   "manifest_version": 3,
+   "mod": {
+      "flavor": {
+         "features": [  ],
+         "hash": "74be16979710d4c4e7c6647856088456",
+         "parent_hash": "d41d8cd98f00b204e9800998ecf8427e"
+      },
+      "payload": {
+         "background_music": [ "music/messmer.mp3" ],
+         "browser_sounds": {
+            "CLICK": [ "sounds/key1.mp3" ],
+            "FEATURE_SWITCH_OFF": [ "sounds/option.mp3" ],
+            "FEATURE_SWITCH_ON": [ "sounds/option.mp3" ],
+            "HOVER": [ "sounds/key1.mp3" ],
+            "HOVER_UP": [ "sounds/key1.mp3" ],
+            "IMPORTANT_CLICK": [ "sounds/option.mp3" ],
+            "LEVEL_UPGRADE": [ "" ],
+            "LIMITER_OFF": [ "" ],
+            "LIMITER_ON": [ "" ],
+            "SWITCH_TOGGLE": [ "sounds/option.mp3" ],
+            "TAB_CLOSE": [ "sounds/closetap.mp3" ],
+            "TAB_INSERT": [ "sounds/newtap.wav" ],
+            "TAB_SLASH": [ "" ]
+         },
+         "keyboard_sounds": {
+            "TYPING_BACKSPACE": [ "sounds/tyback.mp3" ],
+            "TYPING_ENTER": [ "sounds/entering.mp3" ],
+            "TYPING_LETTER": [ "sounds/key1.mp3" ],
+            "TYPING_SPACE": [ "sounds/tyspace.mp3" ]
+         },
+           "theme": {
+            "dark": {
+               "gx_accent": {
+                "h": 348,
+                "l": 40,
+                "s": 90
+               },
+               "gx_secondary_base": {
+                "h": 348,
+                "l": 20,
+                "s": 90
+               }
+            },
+            "light": {
+               "gx_accent": {
+                "a": 0.87,
+                "h": 348,
+                "l": 40,
+                "s": 90
+               },
+               "gx_secondary_base": {
+                "h": 348,
+                "l": 20,
+                "s": 90
+               }
+            }
+           },
+         "wallpaper": {
+            "dark": {
+               "first_frame": "wallpaper/messmer-static.png",
+               "image": "wallpaper/messmer-static.webm",
+               "text_color": "#ff0000",
+               "text_shadow": "#8b0000"
+            },
+            "light": {
+               "first_frame": "wallpaper/messmer-static.png",
+               "image": "wallpaper/messmer-static.webm",
+               "text_color": "#000000",
+               "text_shadow": "#696969"
+            }
+         }
+      },
+      "schema_version": 1
+   },
+   "name": "Elden Ring: Shadow of the Erdtree",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "version": "420.69"
+}
